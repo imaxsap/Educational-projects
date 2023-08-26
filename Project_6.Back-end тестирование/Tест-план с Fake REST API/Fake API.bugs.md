@@ -1,5 +1,3 @@
-Project 07, exercise 2<br>by postwoman  
-
 # Баг-репорты набора тест-кейсов для проверки всех эндпоинтов в Fake REST API  
 
 ## $`\textcolor{blue}{\text{Баг №1. Удаление несуществующей активности {id 31}}}`$  
