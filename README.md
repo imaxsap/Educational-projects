@@ -9,4 +9,6 @@
 - VSCode;
 - Docker;
 - Figma;
+- Fake REST API;
+- Swagger;
 - Miro и т.д.
